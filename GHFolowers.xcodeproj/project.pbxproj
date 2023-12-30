@@ -16,6 +16,7 @@
 		374937BA2B3F8D1200736D7B /* GHFolowersUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 374937B92B3F8D1200736D7B /* GHFolowersUITestsLaunchTests.swift */; };
 		374937C72B3F944800736D7B /* SearchVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 374937C62B3F944800736D7B /* SearchVC.swift */; };
 		374937C92B3F947900736D7B /* FavoritesListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 374937C82B3F947900736D7B /* FavoritesListVC.swift */; };
+		374937CB2B3FA18400736D7B /* GFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 374937CA2B3FA18400736D7B /* GFButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		374937B92B3F8D1200736D7B /* GHFolowersUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GHFolowersUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		374937C62B3F944800736D7B /* SearchVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchVC.swift; sourceTree = "<group>"; };
 		374937C82B3F947900736D7B /* FavoritesListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesListVC.swift; sourceTree = "<group>"; };
+		374937CA2B3FA18400736D7B /* GFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				374937962B3F8D1100736D7B /* AppDelegate.swift */,
 				374937982B3F8D1100736D7B /* SceneDelegate.swift */,
+				374937CA2B3FA18400736D7B /* GFButton.swift */,
 				3749379F2B3F8D1200736D7B /* Assets.xcassets */,
 				374937A12B3F8D1200736D7B /* LaunchScreen.storyboard */,
 				374937A42B3F8D1200736D7B /* Info.plist */,
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				374937C92B3F947900736D7B /* FavoritesListVC.swift in Sources */,
+				374937CB2B3FA18400736D7B /* GFButton.swift in Sources */,
 				374937C72B3F944800736D7B /* SearchVC.swift in Sources */,
 				374937972B3F8D1100736D7B /* AppDelegate.swift in Sources */,
 				374937992B3F8D1100736D7B /* SceneDelegate.swift in Sources */,
