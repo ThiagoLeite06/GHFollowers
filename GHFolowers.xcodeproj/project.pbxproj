@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		372BF0BA2B4639C20020481B /* GFTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 372BF0B92B4639C20020481B /* GFTextField.swift */; };
 		374937972B3F8D1100736D7B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 374937962B3F8D1100736D7B /* AppDelegate.swift */; };
 		374937992B3F8D1100736D7B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 374937982B3F8D1100736D7B /* SceneDelegate.swift */; };
 		374937A02B3F8D1200736D7B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3749379F2B3F8D1200736D7B /* Assets.xcassets */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		372BF0B92B4639C20020481B /* GFTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFTextField.swift; sourceTree = "<group>"; };
 		374937932B3F8D1100736D7B /* GHFolowers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GHFolowers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		374937962B3F8D1100736D7B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		374937982B3F8D1100736D7B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 				374937A42B3F8D1200736D7B /* Info.plist */,
 				374937C62B3F944800736D7B /* SearchVC.swift */,
 				374937C82B3F947900736D7B /* FavoritesListVC.swift */,
+				372BF0B92B4639C20020481B /* GFTextField.swift */,
 			);
 			path = GHFolowers;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				372BF0BA2B4639C20020481B /* GFTextField.swift in Sources */,
 				374937C92B3F947900736D7B /* FavoritesListVC.swift in Sources */,
 				374937CB2B3FA18400736D7B /* GFButton.swift in Sources */,
 				374937C72B3F944800736D7B /* SearchVC.swift in Sources */,
